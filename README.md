@@ -3424,6 +3424,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](https://arxiv.org/abs/2601.05848) (Mar., 2026)  
+  [![Star](https://img.shields.io/github/stars/brown-palm/goal-force.svg?style=social&label=Star)](https://github.com/brown-palm/goal-force)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2601.05848)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://goal-force.github.io/)
+
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (Jan., 2026)  
   [![Star](https://img.shields.io/github/stars/facebookresearch/WMReward.svg?style=social&label=Star)](https://github.com/facebookresearch/WMReward)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10553)
